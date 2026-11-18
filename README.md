@@ -14,8 +14,8 @@
 
 - 🔭 Currently building a **Household Electricity Load & Cost Calculator**
 - 🌱 Learning **Flask**, **SQLite**, and data visualization with **Chart.js**
-- ⚡ Interested in electrical installation, networking, and programming
-- 📫 Reach me: **your@email.com** *(replace this)*
+- ⚡ Interested in Networking
+- 📫 Reach me: **Sanipmaul@gmail.com** 
 
 ---
 
@@ -30,18 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 🚀 Featured project
-
-**[Household Electricity Load & Cost Calculator](https://github.com/RandezR/household-electricity-calculator)** *(update the link to your repo)*
-
-A web dashboard where you enter your appliances, then get:
-- daily and monthly **kWh** usage
-- estimated **cost** based on PLN tariffs
-- **MCB** (circuit breaker) recommendation
-- charts of consumption per appliance
-
-`Python` · `Flask` · `SQLite` · `Chart.js`
 
 ---
 
