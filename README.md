@@ -16,9 +16,12 @@
 - 🌱 Learning **Flask**, **SQLite**, and data visualization with **Chart.js**
 - ⚡ Interested in Networking
 - 📫 Reach me: **Sanipmaul@gmail.com** 
-- NEWJEANS NEVER DIES!!!!!
-- <img src="assets/newjeans.gif" width="500" alt="demo" />
 ---
+<div align="center">
+  <b>NEWJEANS NEVER DIES!!!!!</b>
+  <br><br>
+  <img src="assets/your-gif-name.gif" width="500" alt="NewJeans" />
+</div>
 
 ### 🛠️ Tech stack
 
