@@ -20,7 +20,7 @@
 <div align="center">
   <b>NEWJEANS NEVER DIES!!!!!</b>
   <br><br>
-  <img src="assets/Newjeans.gif" width="500" alt="NewJeans" />
+  <img src="assets/newjeans.gif" width="500" alt="NewJeans" />
 </div>
 
 ### 🛠️ Tech stack
