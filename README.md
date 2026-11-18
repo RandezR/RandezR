@@ -12,9 +12,9 @@
 
 ### 👋 About me
 
-- 🔭 Currently building a **Household Electricity Load & Cost Calculator**
+- 🔭 Currently building Portofolio
 - 🌱 Learning **Flask**, **SQLite**, and data visualization with **Chart.js**
-- ⚡ Interested in Networking
+- ⚡ Interested in Networking and Programming
 - 📫 Reach me: **Sanipmaul@gmail.com** 
 ---
 <div align="center">
